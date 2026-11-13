@@ -1,0 +1,3 @@
+GitHub name: triage-rank
+Description: Synthetic-data sepsis and organ risk ranking research benchmark with probability calibration.
+Topics: python,machine-learning,research,healthcare
