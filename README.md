@@ -1,5 +1,7 @@
 # TriageRank
 
+[![CI](https://github.com/Swakie35/triage-rank/actions/workflows/ci.yml/badge.svg)](https://github.com/Swakie35/triage-rank/actions/workflows/ci.yml)
+
 **A research-only benchmark for early-warning classification and organ-priority ranking.**
 
 My master's work made me interested in a subtle distinction: detecting whether a patient may deteriorate and deciding *what to investigate first* are different modelling problems. TriageRank is a deliberately self-contained experiment with a seeded **synthetic** cohort so the ML workflow can be inspected without clinical credentials, private datasets or patient records.
